@@ -12,6 +12,7 @@ I am a former Criminal Defence Lawyer, and am excited to begin my career as a we
 I remain committed to various causes addressing important social issues and am a member of WHFNP (Women Hack for Non-Profits). Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am committed to working towards increasing participation and diversity within the field.
 
 
+Read more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)
 
 
 
