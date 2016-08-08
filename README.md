@@ -1,6 +1,6 @@
 # Anna Holland Smith
 ----------
-[Skills](#skills) | [Key Projects](#projects) | [Education](#education) | [Experience](#non-relevant-experience) | [Contact](#contact)
+[Skills](#skills) | [Key Projects](#key_projects) | [Education](#education) | [Experience](#experience) | [Contact](#contact)
 
 I am a former Criminal Defence Lawyer, and am excited to begin my career as a web developer. I am a graduate of [Makers Academy](http://www.makersacademy.com/), an intensive 16 week coding bootcamp focused on Ruby and Javascript. During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. I am looking for a junior developer role in which I can continue to learn and write code that can <strike>change the world</strike> positively influence people.   
 
@@ -8,9 +8,6 @@ Skills
 ------
 ###Commitment
 I remain committed to various causes addressing important social issues. I am a member of WHFNP (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
-
-
-
 
 
 
