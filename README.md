@@ -6,7 +6,6 @@ I am a former Criminal Defence Lawyer, and am excited to begin my career as a we
 
 I remain committed to various causes addressing important social issues and am a member of WHFNP (Women Hack for Non-Profits). Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am committed to working towards increasing participation and diversity within the field.
 
-
 Skills
 ------
 
@@ -17,8 +16,8 @@ Key Projects
 
    Read more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
    Follow me on [Twitter](https://twitter.com/AnnaJS15)  
-   Read my blog [This Girl Codes](#) 
-   
+   Read my blog [This Girl Codes](#)
+
 Education
 ---------
 
@@ -27,7 +26,7 @@ Experience
 
 Reviews
 ------
-I asked my classmates at Makers what they thought of me, here's what (some of them) said: 
+I asked my classmates at Makers what they thought of me, here's what (some of them) said:
 
 
 [Joe Stephens](https://uk.linkedin.com/in/joe-coram-stephens-01815b47)
@@ -38,11 +37,12 @@ I asked my classmates at Makers what they thought of me, here's what (some of th
   <i class="star-3">★</i>
   <i class="star-4">★</i>
   <i class="star-5">★</i>
-</div>  
-   
+</div>
+<br>
 
-___Great at ping pong. 5 stars___  
-   [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)  
+___Great at ping pong. 5 stars___ :table_tennis_paddle_and_ball:    
+   [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
+   <br>  
    <div class="rating" data-rate="2">
     <i class="star-1">★</i>
     <i class="star-2">★</i>
@@ -50,10 +50,3 @@ ___Great at ping pong. 5 stars___
     <i class="star-4">★</i>
     <i class="star-5">★</i>
   </div>
-
-
-
-
-
-
-
