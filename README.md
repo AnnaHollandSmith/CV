@@ -71,19 +71,16 @@ ___One to watch. A real go-getter___
 </div>
 
 [Joe Stephens](https://uk.linkedin.com/in/joe-coram-stephens-01815b47)
-<br>
 
-___Sensational at ping pong. 5 stars___  
-
-   <div class="rating" data-rate="2">
+___Sensational at ping pong. 5 stars___
+<div class="rating" data-rate="2">
     <i class="star-1">★</i>
     <i class="star-2">★</i>
     <i class="star-3">★</i>
     <i class="star-4">★</i>
     <i class="star-5">★</i>
-  </div>
-
-  [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
+</div>
+[Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
   _________________
   Read more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
   Follow me on [Twitter](https://twitter.com/AnnaJS15)  
