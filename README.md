@@ -40,7 +40,7 @@ I asked my classmates at Makers what they thought of me, here's what (some of th
   <i class="star-5">★</i>
 </div>
 
-
+___Great at ping pong. 5 stars___
 [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
 
 <div class="rating" data-rate="2">
