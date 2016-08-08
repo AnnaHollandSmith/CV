@@ -21,7 +21,7 @@ I remain committed to various causes addressing important social issues. I am a 
 Projects
 ------------
 | Project | Description | Technologies | Testing |
-|---|---|---|
+|---|---|---|---|
 | Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Mobile map-based role playing game | Javascript, Rails, Cordova, RSpec | Capybara, Karma |
 | [Pear](#https://github.com/AnnaHollandSmith/pear) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely) | Rails, Javascript | Rspec, Capybara, Jasmine
 | [MakersBnB](#https://github.com/AnnaHollandSmith/MakersBnB) | | Rails | Rspec, Capybara |  
