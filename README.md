@@ -42,15 +42,13 @@ I asked my classmates at Makers what they thought of me, here's what (some of th
 
 ___Great at ping pong. 5 stars___  
    [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)  
-   
-
-<div class="rating" data-rate="2">
-  <i class="star-1">★</i>
-  <i class="star-2">★</i>
-  <i class="star-3">★</i>
-  <i class="star-4">★</i>
-  <i class="star-5">★</i>
-</div>
+   <div class="rating" data-rate="2">
+    <i class="star-1">★</i>
+    <i class="star-2">★</i>
+    <i class="star-3">★</i>
+    <i class="star-4">★</i>
+    <i class="star-5">★</i>
+  </div>
 
 
 
