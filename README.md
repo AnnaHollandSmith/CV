@@ -16,25 +16,31 @@ Read more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)
 Follow me on [Twitter](https://twitter.com/AnnaJS15)
 Read my blog [This Girl Codes](#)
 
-#Reviews
+Reviews
+------
+I asked my classmates at Makers what they thought of me, here's what (some of them) said: 
 
-> I asked my classmates at Makers what they thought of me, here's what (some of them) said: 
-> 
-> <div class="rating" data-rate="2">
->   <i class="star-1">★</i>
->   <i class="star-2">★</i>
->  <i class="star-3">★</i>
->  <i class="star-4">★</i>
->   <i class="star-5">★</i>
-> </div>
-> 
-> <div class="rating" data-rate="2">
->   <i class="star-1">★</i>
->   <i class="star-2">★</i>
->   <i class="star-3">★</i>
->   <i class="star-4">★</i>
->   <i class="star-5">★</i>
-> </div>
+
+[Joe Stephens](https://uk.linkedin.com/in/joe-coram-stephens-01815b47)
+
+<div class="rating" data-rate="2">
+  <i class="star-1">★</i>
+  <i class="star-2">★</i>
+  <i class="star-3">★</i>
+  <i class="star-4">★</i>
+  <i class="star-5">★</i>
+</div>
+
+
+[Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
+
+<div class="rating" data-rate="2">
+  <i class="star-1">★</i>
+  <i class="star-2">★</i>
+  <i class="star-3">★</i>
+  <i class="star-4">★</i>
+  <i class="star-5">★</i>
+</div>
 
 
 
