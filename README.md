@@ -38,7 +38,8 @@ I asked my classmates at Makers what they thought of me, here's what (some of th
   <i class="star-3">★</i>
   <i class="star-4">★</i>
   <i class="star-5">★</i>
-</div>
+</div>  
+   
 
 ___Great at ping pong. 5 stars___  
    [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)  
