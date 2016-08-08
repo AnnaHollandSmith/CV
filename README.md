@@ -20,6 +20,7 @@ Read my blog [This Girl Codes](#)
 
 I asked my classmates at Makers what they thought of me, here's what (some of them) said: 
 
+```
 <div class="rating" data-rate="2">
   <i class="star-1">★</i>
   <i class="star-2">★</i>
@@ -27,14 +28,17 @@ I asked my classmates at Makers what they thought of me, here's what (some of th
   <i class="star-4">★</i>
   <i class="star-5">★</i>
 </div>
+```
+```
+<div class="rating" data-rate="2">
+  <i class="star-1">★</i>
+  <i class="star-2">★</i>
+  <i class="star-3">★</i>
+  <i class="star-4">★</i>
+  <i class="star-5">★</i>
+</div>
+```
 
-<div class="rating" data-rate="2">
-  <i class="star-1">★</i>
-  <i class="star-2">★</i>
-  <i class="star-3">★</i>
-  <i class="star-4">★</i>
-  <i class="star-5">★</i>
-</div>
 
 
 
