@@ -9,9 +9,7 @@ Skills
 ###Commitment
 I remain committed to various causes addressing important social issues. I am a member of WHFNP (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
 
-
-
-Key Projects
+Projects
 ------------
 | Project | Description | Technologies | Repos
 |---|---|---|---|
