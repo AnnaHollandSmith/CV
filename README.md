@@ -8,49 +8,49 @@ I am a former Criminal Defence Lawyer, and am excited to begin my career as a we
 
 Skills
 ------
-###Commitment
+####Commitment
 I remain committed to various causes addressing important social issues. I am a member of [WHFNP](#http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
 
-###Problem Solving
+####Problem Solving
 
-###Fast Learner
+####Fast Learner
 
-###Communication
+####Communication
 
 
 Projects
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
-| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Mobile map-based role playing game | Javascript, Rails, Cordova, RSpec | Capybara, Karma |
+| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile game Mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](#https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
 | [Pear](#https://github.com/AnnaHollandSmith/pear) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely) | Rails, Javascript | Rspec, Capybara, Jasmine
 | [MakersBnB](#https://github.com/AnnaHollandSmith/MakersBnB) | | Rails | Rspec, Capybara |  
 
 
 Education
 ---------
-### Web Development @ Makers Academy (April - August '16)
+#### Web Development @ Makers Academy (April - August '16)
 - Makers Academy is a fully immersive, full-time computer programming course in London. It is Europe's #1 Developer Bootcamp.
 
-###Introduction to Front-End Development @ CodeFirst:Girls (October '15 - January '15)
+####Introduction to Front-End Development @ CodeFirst:Girls (October '15 - January '15)
 
 
 Experience
 ----------
 
-###Paralegal/Trainee @ GT Stewart Solicitors
+####Paralegal/Trainee @ GT Stewart Solicitors
 
-###Legal Advisor, Release
+####Legal Advisor, Release
 
-###Resident Fellow, Wymondham College
+####Resident Fellow, Wymondham College
 
-###Criminal Law Tutor, Birkbeck College, University of London
+####Criminal Law Tutor, Birkbeck College, University of London
 
 Volunteering
 -------------
-###MozFest 2016
-###Women Hack for Non-Profits
-###Codebar
+####MozFest 2016
+####Women Hack for Non-Profits
+####Codebar
 
 Interests
 ----------
@@ -82,5 +82,6 @@ ___Sensational at ping pong. 5 stars___
 </div>
 [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
   _________________
+
   Read more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
   Follow me on [Twitter](https://twitter.com/AnnaJS15)  
