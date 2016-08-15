@@ -37,12 +37,13 @@ I have particularly enjoyed the mentoring system at Makers Academy as well as th
 Full-Stack Web Development
 _Makers Academy is a fully immersive, full-time computer programming course in London. It is Europe's #1 Developer Bootcamp._
 
-| Languages: | Ruby, Javascript, HTML, CSS and SASS |
+| | Makers Academy Course Content|
 |---|---|
-| **Frameworks:** | **Ruby on Rails, Node.js, Express, Sinatra** |
-| **Databases:** | **PostgreSQL, DataMapper, Active Record** |
-| **Testing:** | **RSpec, Jasmine, Capybara, Karma, Mocha, Chai, Phantom, Zombie, Casper**
-|**Principles:** | **OOP, TDD, XP Values, SOLID Design Principles, Agile Development, Pair Programming, Version Control (Git)**
+| **Languages:** | Ruby, Javascript, HTML, CSS and SASS |
+| **Frameworks:** | Ruby on Rails, Node.js, Express, Sinatra |
+| **Databases:** | PostgreSQL, DataMapper, Active Record |
+| **Testing:** | RSpec, Jasmine, Capybara, Karma, Mocha, Chai, Phantom, Zombie, Casper
+|**Principles:** | OOP, TDD, XP Values, SOLID Design Principles, Agile Development, Pair Programming, Version Control (Git)
 
 
 ### CodeFirst:Girls _(October '15 - January '15)_
