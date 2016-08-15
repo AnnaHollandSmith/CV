@@ -16,9 +16,6 @@ During my time at Makers Academy I learned how to think more like a programmer, 
 #### Commitment
 I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
 
-#### Problem Solving/Analytical Thinking
-A fundamental skill that was developed throughout the course of my previous legal career and has proven to be invaluable whilst building my programming knowledge, has been the ability to analyse and extract relevant information. As a result of my critical and analytical thinking, I have come to enjoy and be effective at debugging processes.
-
 #### Fast Learner
 For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
 - The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
@@ -91,17 +88,18 @@ I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozill
 As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.
 
 ##### Codebar
-Volunteer coach for [codebar](https://codebar.io/).
+Having benefitted from the mentoring provided by codebar when I was first learning to code, I am now paying it forward as a volunteer coach for [codebar](https://codebar.io/).
 
 _Organisations with which I am associated or actively participate in include (but are not limited to):_
 
 #### Techfugees
-I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees. 
+I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees.
 
 #### CodeFirst:Girls
 A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge where appropriate.
 
 #### Women Who Code
+I am an active member of the London chapter of [Women Who Code](https://www.womenwhocode.com/) (WWC).
 
 ## <a name="reviews">Reviews</a>
 ------
