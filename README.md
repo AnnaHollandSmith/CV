@@ -33,7 +33,7 @@ I have particularly enjoyed the mentoring system at Makers Academy as well as th
 |---|---|---|---|
 | Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile game Mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](#https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
 | Pear [github](#https://github.com/AnnaHollandSmith/pear) [heroku](#http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
-| MakersBnB [github](#https://github.com/AnnaHollandSmith/MakersBnB) [heroku](#) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
+| MakersBnB [github](#https://github.com/AnnaHollandSmith/MakersBnB) [heroku](#https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
 
 ## <a name="education">Education</a>
@@ -84,13 +84,13 @@ _BA(Hons) History/ History of Art:_ 2:1
 Volunteering
 -------------
 ##### MozFest 2016
-I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](#https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.  
+I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.  
 
 ##### Women Hack for Non-Profits
-As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](#http://www.pimpmycause.org/) website.
+As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.
 
 ##### Codebar
-Volunteer coach for [codebar](#https://codebar.io/).
+Volunteer coach for [codebar](https://codebar.io/).
 
 
 ## <a name="organisations">Organisations</a>
