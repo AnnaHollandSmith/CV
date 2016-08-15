@@ -12,7 +12,7 @@ As a graduate of [Makers Academy](http://www.makersacademy.com/), an intensive 1
 ## <a name="skills">Skills</a>
 ------
 #### Commitment
-I remain committed to various causes addressing important social issues. I am a member of [WHFNP](#http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
+I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
 
 #### Problem Solving/Analytical Thinking
 A fundamental skill that was developed throughout the course of my previous legal career and has proven to be invaluable whilst building my programming knowledge, has been the ability to analyse and extract relevant information. As a result of my critical and analytical thinking, I have come to enjoy and be effective at debugging processes.
@@ -20,20 +20,20 @@ A fundamental skill that was developed throughout the course of my previous lega
 #### Fast Learner
 For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
 - The repository for the
-project can be found [here](#https://github.com/AnnaHollandSmith/chasing_shadows).
-- The group presentation for the project can be viewed [here](#https://vimeo.com/177900577)
+project can be found [here](https://github.com/AnnaHollandSmith/chasing_shadows).
+- The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
 
 #### Teaching and Mentorship
-I have particularly enjoyed the mentoring system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using such teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I have started to volunteer as a coach at [codebar](#https://codebar.io/)
+I have particularly enjoyed the mentoring system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using such teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I have started to volunteer as a coach at [codebar](https://codebar.io/)
 
 
 ## <a name="projects">Projects</a>
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
-| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile game Mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](#https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
-| Pear [github](#https://github.com/AnnaHollandSmith/pear) [heroku](#http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
-| MakersBnB [github](#https://github.com/AnnaHollandSmith/MakersBnB) [heroku](#https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
+| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile game Mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
+| Pear [Github](https://github.com/AnnaHollandSmith/pear) [Heroku](http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
+| MakersBnB [Github](https://github.com/AnnaHollandSmith/MakersBnB) [Heroku](https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
 
 ## <a name="education">Education</a>
