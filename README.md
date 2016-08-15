@@ -27,12 +27,12 @@ project can be found [here](#https://github.com/AnnaHollandSmith/chasing_shadows
 I have particularly enjoyed the mentoring system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using such teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I have started to volunteer as a coach at [codebar](#https://codebar.io/)
 
 
-Projects
+## <a name="projects">Projects</a>
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
 | Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile game Mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](#https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
-| Pear [github](#https://github.com/AnnaHollandSmith/pear) [heroku](#) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
+| Pear [github](#https://github.com/AnnaHollandSmith/pear) [heroku](#http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
 | MakersBnB [github](#https://github.com/AnnaHollandSmith/MakersBnB) [heroku](#) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
 
@@ -70,7 +70,7 @@ _MA Gender, Society and Representation:_ Distinction
 ### The University of York
 _BA(Hons) History/ History of Art:_ 2:1
 
-Work Experience
+## <a name="experience">Experience</a>
 ----------
 
 ##### Paralegal/Trainee, GT Stewart Solicitors
@@ -93,17 +93,19 @@ As a member of the Women Hack for Non Profits Community, I will be attending the
 Volunteer coach for [codebar](#https://codebar.io/).
 
 
-Organisations
+## <a name="organisations">Organisations</a>
 -------------
+_Organisations with which I am associated or actively participate in include (but are not limited to):_
 
 #### Techfugees
 An active participant in the Techfugees community.
 
 #### CodeFirst:Girls
+A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge where appropriate.
 
 #### Women Who Code
 
-Reviews
+## <a name="reviews">Reviews</a>
 ------
 I asked my classmates at Makers what they thought of me, here's what (some of them) said:
 
