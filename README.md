@@ -74,13 +74,13 @@ _BA(Hons) History/ History of Art:_ 2:1
 
 ## <a name="volunteering">Volunteering and Organisations</a>
 -------------
-##### MozFest 2016
+#### MozFest 2016
 I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.  
 
-##### Women Hack for Non-Profits
+#### Women Hack for Non-Profits
 As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.
 
-##### Codebar
+#### Codebar
 Having benefitted from the mentoring provided by codebar when I was first learning to code, I am now paying it forward as a volunteer coach for [codebar](https://codebar.io/).
 
 _Organisations with which I am associated or actively participate in include (but are not limited to):_
