@@ -27,7 +27,7 @@ I have particularly enjoyed the mentoring system at Makers Academy as well as th
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
-| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile game Mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
+| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
 | Pear [Github](https://github.com/AnnaHollandSmith/pear) [Heroku](http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
 | MakersBnB [Github](https://github.com/AnnaHollandSmith/MakersBnB) [Heroku](https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
