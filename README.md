@@ -2,7 +2,7 @@
 ----------
 [Skills](#skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [Volunteering](#volunteering) | [Reviews](#reviews)
 
-:globe_with_meridians: Read my blog [This Girl Codes](#)
+:pencil2: Read my blog: [This Girl Codes](https://thisgirlcodes.co.uk/)
 
 I am a former Criminal Defence Lawyer, and am excited to begin my career as a web developer.
 
