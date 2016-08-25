@@ -33,8 +33,10 @@ I have particularly enjoyed the mentoring system at Makers Academy as well as th
 
 ## <a name="education">Education</a>
 ---------
-### Makers Academy _(April - August '16)_
-Full-Stack Web Development
+#### Makers Academy
+_April - August '16_<br>
+
+Full-Stack Web Development <br>
 _Makers Academy is a fully immersive, full-time computer programming course in London. It is Europe's #1 Developer Bootcamp._
 
 | | Makers Academy Course Content|
@@ -46,20 +48,23 @@ _Makers Academy is a fully immersive, full-time computer programming course in L
 |**Principles:** | OOP, TDD, XP Values, SOLID Design Principles, Agile Development, Pair Programming, Version Control (Git)
 
 
-### CodeFirst:Girls _(October '15 - January '15)_
+#### CodeFirst:Girls
+_October '15 - January '15_<br>
+
 Introduction to Front-End Development
 _CodeFirst:Girls works with women and companies to improve gender diversity within tech._ <br>
+The course syllabus covered: Version control (Git), Ruby, Javascript, JQuery, Bootstrap, CSS and HTML.  
 
-  **Course Syllabus:** Version control (Git), Ruby, Javascript, JQuery, Bootstrap, CSS and HTML.  
+#### Birkbeck College, University of London
+_LLM Qualifying Law Degree:_ Distinction <br>
+**positions held:** Student Representative on the Law School Committee
 
-### Birkbeck College, University of London
-_LLM Qualifying Law Degree:_ Distinction
-
-### University College London
+#### University College London
 _MA Gender, Society and Representation:_ Distinction
 
-### The University of York
-_BA(Hons) History/ History of Art:_ 2:1
+#### The University of York
+_BA(Hons) History/ History of Art:_ 2:1<br>
+**positions held:** • 1st XI Hockey Captain • Indoor Hockey Captain and Coach • Novice Rowing VIII • Entertainments Committee • Junior Common Room Committee 
 
 ## <a name="experience">Experience</a>
 ----------
@@ -79,26 +84,25 @@ _Legal Advisor_<br>
 
 ##### Wymondham College
 _Resident Fellow_
-
+•	Provided administrative, pastoral and teaching support to Wymondham College, a leading state boarding school.
+•	Assisted in the implementation of a school-wide ‘Learning For Life’ programme.
+•	Supported the school-wide Mock Trial and Debating competitions.
 
 ##### Birkbeck College, University of London
 _Criminal Law Tutor_
-•	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br> 
+•	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
 •		Responsible for developing targeted tutorials and extensive examination feedback.
 
 
 ## <a name="volunteering">Volunteering and Organisations</a>
 -------------
-#### MozFest 2016
-I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.  
+|Organisation | Role|
+|---|---|
+| **MozFest 2016** |I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.|  
+| **Women Hack for Non-Profits** | As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.|
+| **Codebar** | Having benefitted from the mentoring provided by codebar when I was first learning to code, I am now paying it forward as a volunteer coach for [codebar](https://codebar.io/).|
 
-#### Women Hack for Non-Profits
-As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.
-
-#### Codebar
-Having benefitted from the mentoring provided by codebar when I was first learning to code, I am now paying it forward as a volunteer coach for [codebar](https://codebar.io/).
-
-_Organisations with which I am associated or actively participate in include (but are not limited to):_
+**Other organisations with which I am associated or actively participate in include (but are not limited to):**
 
 #### Techfugees
 I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees.
