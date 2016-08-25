@@ -64,7 +64,7 @@ _MA Gender, Society and Representation:_ Distinction
 
 #### The University of York
 _BA(Hons) History/ History of Art:_ 2:1<br>
-**positions held:** • 1st XI Hockey Captain • Indoor Hockey Captain and Coach • Novice Rowing VIII • Entertainments Committee • Junior Common Room Committee 
+**positions held:** • 1st XI Hockey Captain • Indoor Hockey Captain and Coach • Novice Rowing VIII • Entertainments Committee • Junior Common Room Committee
 
 ## <a name="experience">Experience</a>
 ----------
@@ -83,35 +83,30 @@ _Legal Advisor_<br>
 •	Drafted statements, letters, responses to inquiries and expert witness reports.
 
 ##### Wymondham College
-_Resident Fellow_
+_Resident Fellow_<br>
 •	Provided administrative, pastoral and teaching support to Wymondham College, a leading state boarding school.
 •	Assisted in the implementation of a school-wide ‘Learning For Life’ programme.
 •	Supported the school-wide Mock Trial and Debating competitions.
 
 ##### Birkbeck College, University of London
-_Criminal Law Tutor_
+_Criminal Law Tutor_<br>
 •	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
 •		Responsible for developing targeted tutorials and extensive examination feedback.
 
 
 ## <a name="volunteering">Volunteering and Organisations</a>
 -------------
+
+**Organisations with which I am associated or actively participate in include (but are not limited to):**
+
 |Organisation | Role|
 |---|---|
 | **MozFest 2016** |I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.|  
 | **Women Hack for Non-Profits** | As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.|
 | **Codebar** | Having benefitted from the mentoring provided by codebar when I was first learning to code, I am now paying it forward as a volunteer coach for [codebar](https://codebar.io/).|
-
-**Other organisations with which I am associated or actively participate in include (but are not limited to):**
-
-#### Techfugees
-I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees.
-
-#### CodeFirst:Girls
-A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge where appropriate.
-
-#### Women Who Code
-I am an active member of the London chapter of [Women Who Code](https://www.womenwhocode.com/) (WWC).
+| **Techfugees** | I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees. |
+| **CodeFirst:Girls** | A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge where appropriate. |
+| **Women Who Code** | I am an active member of the London chapter of [Women Who Code](https://www.womenwhocode.com/) (WWC). |
 
 ## <a name="reviews">Reviews</a>
 ------
