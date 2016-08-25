@@ -64,13 +64,28 @@ _BA(Hons) History/ History of Art:_ 2:1
 ## <a name="experience">Experience</a>
 ----------
 
-##### Paralegal/Trainee, GT Stewart Solicitors
+##### GT Stewart Solicitors
+_Paralegal/Trainee_<br>
 
-##### Legal Advisor, Release
+Responsibilities included:<br>
+•	Case preparation of Crown Court cases.</br>• Conducting prison visits to take instructions and statements.</br>
+•	Liaising with and instructing expert witnesses.</br>•Training and monitoring of interns and new members of the paralegal team.
 
-##### Resident Fellow, Wymondham College
+##### Release
+_Legal Advisor_<br>
+•	Answered legal helpline and provided legal advice to callers on subjects relating to drug use and drug related crime.<br>
+•	Conducted legal research.<br>
+•	Drafted statements, letters, responses to inquiries and expert witness reports.
 
-##### Criminal Law Tutor, Birkbeck College, University of London
+##### Wymondham College
+_Resident Fellow_
+
+
+##### Birkbeck College, University of London
+_Criminal Law Tutor_
+•	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br> 
+•		Responsible for developing targeted tutorials and extensive examination feedback.
+
 
 ## <a name="volunteering">Volunteering and Organisations</a>
 -------------
