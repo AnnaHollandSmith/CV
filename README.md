@@ -134,5 +134,6 @@ ___Sensational at ping pong. 5 stars___
 [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
   _________________
 
-  Read more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
+  Find out more [about me](https://about.me/annahollandsmith)<br>
+  Discover more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
   Follow me on [Twitter](https://twitter.com/AnnaJS15)  
