@@ -49,7 +49,7 @@ _Makers Academy is a fully immersive, full-time computer programming course in L
 
 
 #### CodeFirst:Girls
-_October '15 - January '15_<br>
+_October '15 - January '16_<br>
 
 Introduction to Front-End Development
 _CodeFirst:Girls works with women and companies to improve gender diversity within tech._ <br>
