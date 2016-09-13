@@ -11,19 +11,21 @@ As a graduate of [Makers Academy](http://www.makersacademy.com/), an intensive 1
 During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. As such, I subscribe to Agile/XP values and would look to continue with TDD (test-driven development) and pair programming in any future role.
 
 
-## <a name="skills">Skills</a>
+## :book: <a name="skills">Skills</a>
 ------
 #### Commitment
 I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
 
 #### Fast Learner
-For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
+The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards.
+
+These skills became even more apparent whilst at Makers Academy. For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
 - The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
 
 #### Teaching and Mentorship
-I have particularly enjoyed the mentoring system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using such teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I now volunteer as a coach at [codebar](https://codebar.io/)
+I have particularly enjoyed the mentoring system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I now volunteer as a coach at [codebar](https://codebar.io/)
 
-## <a name="projects">Projects</a>
+## :computer: <a name="projects">Projects</a>
 ------------
 | Project | Description | Technologies | Testing |
 |---|---|---|---|
@@ -31,7 +33,7 @@ I have particularly enjoyed the mentoring system at Makers Academy as well as th
 | Pear [Github](https://github.com/AnnaHollandSmith/pear) [Heroku](http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
 | MakersBnB [Github](https://github.com/AnnaHollandSmith/MakersBnB) [Heroku](https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
-## <a name="education">Education</a>
+## :mortar_board: <a name="education">Education</a>
 ---------
 #### Makers Academy
 _April - August '16_<br>
@@ -66,7 +68,7 @@ _MA Gender, Society and Representation:_ Distinction
 _BA(Hons) History/ History of Art:_ 2:1<br>
 **positions held:** • 1st XI Hockey Captain • Indoor Hockey Captain and Coach • Novice Rowing VIII • Entertainments Committee • Junior Common Room Committee
 
-## <a name="experience">Experience</a>
+## :blue_book: <a name="experience">Experience</a>
 ----------
 
 ##### GT Stewart Solicitors
