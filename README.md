@@ -35,8 +35,7 @@ I have particularly enjoyed the mentoring system at Makers Academy as well as th
 
 ## :mortar_board: <a name="education">Education</a>
 ---------
-#### Makers Academy
-_April - August '16_<br>
+**Makers Academy** _April - August '16_<br>
 
 Full-Stack Web Development <br>
 _Makers Academy is a fully immersive, full-time computer programming course in London. It is Europe's #1 Developer Bootcamp._
@@ -50,18 +49,16 @@ _Makers Academy is a fully immersive, full-time computer programming course in L
 |**Principles:** | OOP, TDD, XP Values, SOLID Design Principles, Agile Development, Pair Programming, Version Control (Git)
 
 
-#### CodeFirst:Girls
-_October '15 - January '16_<br>
-
+**CodeFirst:Girls** _October '15 - January '16_<br>
 Introduction to Front-End Development
 _CodeFirst:Girls works with women and companies to improve gender diversity within tech._ <br>
-The course syllabus covered: Version control (Git), Ruby, Javascript, JQuery, Bootstrap, CSS and HTML.  
+The course syllabus covered: Version control (Git), Ruby, Javascript, JQuery, Bootstrap, CSS and HTML.
 
-#### Birkbeck College, University of London
+**Birkbeck College, University of London**<br>
 _LLM Qualifying Law Degree:_ Distinction <br>
 **positions held:** Student Representative on the Law School Committee
 
-#### University College London
+**University College London**<br>
 _MA Gender, Society and Representation:_ Distinction
 
 #### The University of York
