@@ -61,7 +61,7 @@ _LLM Qualifying Law Degree:_ Distinction <br>
 **University College London**<br>
 _MA Gender, Society and Representation:_ Distinction
 
-#### The University of York
+**The University of York**<br>
 _BA(Hons) History/ History of Art:_ 2:1<br>
 **positions held:** • 1st XI Hockey Captain • Indoor Hockey Captain and Coach • Novice Rowing VIII • Entertainments Committee • Junior Common Room Committee
 
