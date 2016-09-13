@@ -1,14 +1,14 @@
 # Anna Holland Smith
 ----------
-[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [Volunteering](#volunteering) | [Reviews](#reviews)
+[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) | [Volunteering](#volunteering) | [Reviews](#reviews) | [Contact](#contact)
 
 :pencil2: Read my blog: [This Girl Codes](https://thisgirlcodes.co.uk/)
 
-I am a former Criminal Defence Lawyer, and am excited to begin my career as a web developer.
+I am a former Criminal Defence Lawyer excited to begin my career as a web developer.
 
 As a graduate of [Makers Academy](http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, I look forward to joining a company where I can make a real difference as a junior developer.
 
-During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. As such, I subscribe to Agile/XP values and would look to continue with TDD (test-driven development) and pair programming in any future role.
+During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. As such, I subscribe to Agile/XP values and would also look for opportunities to continue with TDD (test-driven development) and pair programming in any future role.
 
 
 ## :book: <a name="skills">Skills</a>
@@ -71,34 +71,28 @@ _BA(Hons) History/ History of Art:_ 2:1<br>
 ## :blue_book: <a name="experience">Experience</a>
 ----------
 
-##### GT Stewart Solicitors
-_Paralegal/Trainee_<br>
-
+**GT Stewart Solicitors** _(Paralegal/Trainee)_<br>
 Responsibilities included:<br>
 •	Case preparation of Crown Court cases.</br>• Conducting prison visits to take instructions and statements.</br>
 •	Liaising with and instructing expert witnesses.</br>•Training and monitoring of interns and new members of the paralegal team.
 
-##### Release
-_Legal Advisor_<br>
-•	Answered legal helpline and provided legal advice to callers on subjects relating to drug use and drug related crime.<br>
+**Release** _(Legal Advisor)_<br>
+•	Answered  calls to the legal helpline and provided legal advice on subjects relating to drug use and drug related crime.<br>
 •	Conducted legal research.<br>
 •	Drafted statements, letters, responses to inquiries and expert witness reports.
 
-##### Wymondham College
-_Resident Fellow_<br>
+**Wymondham College** _(Resident Fellow)_<br>
 •	Provided administrative, pastoral and teaching support to Wymondham College, a leading state boarding school.
 •	Assisted in the implementation of a school-wide ‘Learning For Life’ programme.
 •	Supported the school-wide Mock Trial and Debating competitions.
 
-##### Birkbeck College, University of London
-_Criminal Law Tutor_<br>
+**Birkbeck College, University of London** _(Criminal Law Tutor)_<br>
 •	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
 •		Responsible for developing targeted tutorials and extensive examination feedback.
 
 
 ## <a name="volunteering">Volunteering and Organisations</a>
 -------------
-
 **Organisations with which I am associated or actively participate in include (but are not limited to):**
 
 |Organisation | Role|
@@ -134,8 +128,8 @@ ___Sensational at ping pong. 5 stars___
     <i class="star-5">★</i>
 </div>
 [Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
-  _________________
 
-  Find out more [about me](https://about.me/annahollandsmith)<br>
+## :envelope: <a name="contact">Contact</a>
+  _Find out more [about me](https://about.me/annahollandsmith)<br>
   Discover more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
-  Follow me on [Twitter](https://twitter.com/AnnaJS15)  
+  Follow me on [Twitter](https://twitter.com/AnnaJS15)_  
