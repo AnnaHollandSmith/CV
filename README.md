@@ -65,8 +65,8 @@ _BA(Hons) History/ History of Art:_ 2:1<br>
 ## :blue_book: <a name="experience">Experience</a>
 ----------
 **BBC** _(Junior Software Engineer, Platform API)_<br>
-• Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering.
-• Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content. 
+• Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering.<br>
+• Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content.<br> 
 • The Connections team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.
 
 **GT Stewart Solicitors** _(Paralegal/Trainee)_<br>
