@@ -4,12 +4,9 @@
 
 :pencil2: Read my blog: [This Girl Codes](https://thisgirlcodes.co.uk/)
 
-I am a former Criminal Defence Lawyer excited to begin my career as a web developer.
+I am a Criminal Defence Lawyer turned Software Engineer.
 
-As a graduate of [Makers Academy](http://www.makersacademy.com/), an intensive 16-week coding bootcamp focused on Ruby and Javascript, I look forward to joining a company where I can make a real difference as a junior developer.
-
-During my time at Makers Academy I learned how to think more like a programmer, write clean test-driven code, and pick up new languages and technologies. As such, I subscribe to Agile/XP values and would also look for opportunities to continue with TDD (test-driven development) and pair programming in any future role.
-
+Having left behind a career in law and graduated from [Makers Academy](http://www.makersacademy.com/), an intensive and highly-selective 16-week coding bootcamp focused on Ruby and Javascript, I am now employed as a Junior Software Engineer at the BBC. 
 
 ## :book: <a name="skills">Skills</a>
 ------
@@ -67,6 +64,10 @@ _BA(Hons) History/ History of Art:_ 2:1<br>
 
 ## :blue_book: <a name="experience">Experience</a>
 ----------
+**BBC** _(Junior Software Engineer, Platform API)_<br>
+• Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering.
+• Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content. 
+• The Connections team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.
 
 **GT Stewart Solicitors** _(Paralegal/Trainee)_<br>
 Responsibilities included:<br>
