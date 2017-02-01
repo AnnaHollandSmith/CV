@@ -98,9 +98,7 @@ Responsibilities included:<br>
 | **CodeFirst:Girls** | A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge as a Tutor for the beginners course currently being held at ThoughtWorks, Manchester. |
 | **Ladies of Code** | I am an active member of the Manchester Chapter of Ladies of Code. I recently participated as a panel member for an event centred around the topic of career-changes and continue to provide support and mentorship to a number of the women who attended this event |
 | **Women Who Code** | I am an active member of the London chapter of [Women Who Code](https://www.womenwhocode.com/) (WWC). |
-| **MozFest 2016** |I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.|  
-| **Women Hack for Non-Profits** | As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.|
-| **Codebar** | Having benefitted from the mentoring provided by codebar when I was first learning to code, I am now paying it forward as a volunteer coach for [codebar](https://codebar.io/).|
+| **MozFest 2016** |I am volunteered my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.|  
 | **Techfugees** | I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees. |
 
 ## <a name="reviews">Reviews</a>
