@@ -20,7 +20,7 @@ These skills became even more apparent whilst at Makers Academy. For the Makers 
 - The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
 
 #### Teaching and Mentorship
-I have particularly enjoyed the mentoring system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I now volunteer as a coach at [codebar](https://codebar.io/)
+I particularly enjoyed the mentor system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I now volunteer as a tutor at [Code First Girls](http://www.codefirstgirls.org.uk/) and [Rails Girls](http://railsgirls.com/)
 
 ## :computer: <a name="projects">Projects</a>
 ------------
@@ -95,12 +95,13 @@ Responsibilities included:<br>
 
 |Organisation | Role|
 |---|---|
+| **CodeFirst:Girls** | A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge as a Tutor for the beginners course currently being held at ThoughtWorks, Manchester. |
+| **Ladies of Code** | I am an active member of the Manchester Chapter of Ladies of Code. I recently participated as a panel member for an event centred around the topic of career-changes and continue to provide support and mentorship to a number of the women who attended this event |
+| **Women Who Code** | I am an active member of the London chapter of [Women Who Code](https://www.womenwhocode.com/) (WWC). |
 | **MozFest 2016** |I am volunteering my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.|  
 | **Women Hack for Non-Profits** | As a member of the Women Hack for Non Profits Community, I will be attending their hackathons and contributing to the redesign of the [Pimp my Cause](http://www.pimpmycause.org/) website.|
 | **Codebar** | Having benefitted from the mentoring provided by codebar when I was first learning to code, I am now paying it forward as a volunteer coach for [codebar](https://codebar.io/).|
 | **Techfugees** | I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees. |
-| **CodeFirst:Girls** | A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge where appropriate. |
-| **Women Who Code** | I am an active member of the London chapter of [Women Who Code](https://www.womenwhocode.com/) (WWC). |
 
 ## <a name="reviews">Reviews</a>
 ------
