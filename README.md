@@ -11,7 +11,7 @@ Having left behind a career in law and graduated from [Makers Academy](http://ww
 ## :book: <a name="skills">Skills</a>
 ------
 #### Commitment
-I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and will volunteer at MozFest 2016. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
+I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and am particularly excited to be volunteering with a new initiative ([Code 4000](http://www.techcityuk.com/blog/2016/11/teaching-programming-prisoners/)), designed to provide a coding education to selected inmates within prisons throughout the UK in a model designed to reflect that of [The Last Mile](https://thelastmile.org/), which has been successfully implemented throughout prisons in the US. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am always willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
 
 #### Fast Learner
 The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards.
