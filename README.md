@@ -8,10 +8,12 @@ I am a Criminal Defence Lawyer turned Software Engineer.
 
 Having left behind a career in law and graduated from [Makers Academy](http://www.makersacademy.com/), an intensive and highly-selective 16-week coding bootcamp focused on Ruby and Javascript, I am now employed as a Junior Software Engineer at the BBC. 
 
+The Connections Team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.
+
 ## :book: <a name="skills">Skills</a>
 ------
 #### Commitment
-I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and am particularly excited to be volunteering with a new initiative ([Code 4000](http://www.techcityuk.com/blog/2016/11/teaching-programming-prisoners/)), designed to provide a coding education to selected inmates within prisons throughout the UK in a model designed to reflect that of [The Last Mile](https://thelastmile.org/), which has been successfully implemented throughout prisons in the US. Having benefitted  directly from organisations such a Code First: Girls, Codebar, and Women Who Code, I am always willing to dedicate my time and newly acquired skills to increasing participation and diversity within the field.
+I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and am particularly excited to be volunteering with a new initiative ([Code 4000](http://www.techcityuk.com/blog/2016/11/teaching-programming-prisoners/)), designed to provide a coding education to selected inmates within prisons throughout the UK in a model designed to reflect that of [The Last Mile](https://thelastmile.org/), which has been successfully implemented throughout prisons in the US. 
 
 #### Fast Learner
 The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards.
@@ -20,7 +22,7 @@ These skills became even more apparent whilst at Makers Academy. For the Makers 
 - The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
 
 #### Teaching and Mentorship
-I particularly enjoyed the mentor system at Makers Academy as well as the collaborative learning environment that was cultivated through pair programming and regular group projects. I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge. As a result of my new-found enjoyment of this aspect of programming, I now volunteer as a tutor at [Code First Girls](http://www.codefirstgirls.org.uk/) and [Rails Girls](http://railsgirls.com/)
+ I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge. I am a volunteer tutor at [Code First Girls](http://www.codefirstgirls.org.uk/) Manchester and have previously volunteered as a coach at [Rails Girls](http://railsgirls.com/) and [DjangoGirls](https://djangogirls.org/). Such is my commitment to providing supportive learning environments for individuals who are currently underrepresented in Tech or who face additional barriers to a coding education, that I have set-up and organised 
 
 ## :computer: <a name="projects">Projects</a>
 ------------
