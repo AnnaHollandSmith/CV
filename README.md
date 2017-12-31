@@ -79,7 +79,10 @@ _BA(Hons) History/ History of Art:_ 2:1<br>
 
 |Organisation | Role| Description|
 |---|---|---|
-| **BBC** | _Software Engineer, Content Distribution Services_ | -  Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering. - Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content. - The Connections team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.|
+| **BBC** | _Software Engineer, Content Distribution Services_ | 
+-  Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering. 
+- Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content. 
+- The Connections team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.|
 |**GT Stewart Solicitors**|_Crown Court Caseworker_|Responsibilities included:
 •	Case preparation of Crown Court cases. 
 • Conducting prison visits to take instructions and statements.
