@@ -31,11 +31,7 @@ _I remain committed to various causes addressing important social issues:_
  _I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge:_  
  - I am a volunteer tutor at [Code First Girls](http://www.codefirstgirls.org.uk/) Manchester.
  - I have previously volunteered as a coach at [Rails Girls](http://railsgirls.com/) and [DjangoGirls](https://djangogirls.org/).
- - I regularly mentor at youth hackathons and coding camps organised by (Responsibilities included:<br>
-•	Case preparation of Crown Court cases.</br>• Conducting prison visits to take instructions and statements.</br>
-•	Liaising with and instructing expert witnesses.</br>•Training and monitoring of interns and new members of the paralegal team.Responsibilities included:<br>
-•	Case preparation of Crown Court cases.</br>• Conducting prison visits to take instructions and statements.</br>
-•	Liaising with and instructing expert witnesses.</br>•Training and monitoring of interns and new members of the paralegal team.)
+ - I regularly mentor at youth hackathons and coding camps organised by [Hive Learning Network](http://www.hivelearning.net/)
  - Such is my commitment to providing supportive learning environments for individuals who are currently underrepresented in Tech or who face additional barriers to a coding education, that I have set-up and organised the Manchester chapters of [CodeYourFuture](https://codeyourfuture.io/) and [Codebar](https://codebar.io/).
 
 
@@ -104,6 +100,7 @@ Responsibilities included:<br>
 **Birkbeck College, University of London** _(Criminal Law Tutor)_<br>
 •	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
 •		Responsible for developing targeted tutorials and extensive examination feedback.
+
 
 ## :envelope: <a name="contact">Contact</a>
   _Find out more [about me](https://about.me/annahollandsmith)<br>
