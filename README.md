@@ -12,12 +12,12 @@ The Connections Team are responsible for APIs that maintain BBC concepts and the
 
 ## :book: <a name="skills">Skills</a>
 ------
-#### Fast Learner
+#### Fast Learner and Language Agnostic Developer
 The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards. These skills became even more apparent whilst at Makers Academy. For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
 
 - The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
 
-I have further demonstrated my ability to acquire new skills and knowledge throughout my time at the BBC. I started my journey into developing with ruby, ruby on rails, relational databases, OOP and MVC style but was required to learn JavaScript to complete the application process with the BBC. Following a successful application I was placed in a team working primarily in Scala. During my time with the Connections team, we have now transitioned across to using TypeScript for any new services we build. As a result, I consider myself to be language agnostic, with the ability and the willingness to pick up new languages and technologies.  
+I have further demonstrated my ability to acquire new skills and knowledge throughout my time at the BBC. I started my journey into developing with **Ruby**, **Ruby on rails**, **relational databases**, **OOP** and **MVC** style but was required to learn JavaScript to complete the application process with the BBC. Following a successful application I was placed in a team working primarily in **Scala**. During my time with the Connections team, we have now transitioned across to using **TypeScript** for any new services we build. As a result, I consider myself to be language agnostic, with the ability and the willingness to pick up new languages and technologies.  
 
 #### Commitment
 I remain committed to various causes addressing important social issues: 
