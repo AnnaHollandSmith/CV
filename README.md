@@ -15,8 +15,7 @@ The Connections Team are responsible for APIs that maintain BBC concepts and the
 #### Fast Learner and Language Agnostic Developer
 _The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards. These skills became even more apparent whilst at Makers Academy:_ 
 
- - For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
-  -  The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
+ - For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project. The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
   
 - I have further demonstrated my ability to acquire new skills and knowledge throughout my time at the BBC. I started my journey into developing with **Ruby**, **Ruby on rails**, **relational databases**, **OOP** and **MVC** style but was required to learn JavaScript to complete the application process with the BBC. Following a successful application I was placed in a team working primarily in **Scala**. During my time with the Connections team, we have now transitioned across to using **TypeScript** for any new services we build. As a result, I consider myself to be language agnostic, with the ability and the willingness to pick up new languages and technologies.  
 
@@ -77,67 +76,23 @@ _BA(Hons) History/ History of Art:_ 2:1<br>
 
 ## :blue_book: <a name="experience">Experience</a>
 ----------
-**BBC** _(Junior Software Engineer, Platform API)_<br>
-• Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering.<br>
+
+|Organisation | Role| Description|
+|---|---|---|
+| **BBC** | _Software Engineer, Content Distribution Services_ | • Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering.<br>
 • Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content.<br> 
-• The Connections team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.
-
-**GT Stewart Solicitors** _(Paralegal/Trainee)_<br>
-Responsibilities included:<br>
+• The Connections team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.|
+|**GT Stewart Solicitors**|_Crown Court Caseworker_|Responsibilities included:<br>
 •	Case preparation of Crown Court cases.</br>• Conducting prison visits to take instructions and statements.</br>
-•	Liaising with and instructing expert witnesses.</br>•Training and monitoring of interns and new members of the paralegal team.
-
-**Release** _(Legal Advisor)_<br>
-•	Answered  calls to the legal helpline and provided legal advice on subjects relating to drug use and drug related crime.<br>
+•	Liaising with and instructing expert witnesses.</br>•Training and monitoring of interns and new members of the paralegal team.|
+|**Release**| _Legal Advisor_ |•	Answered  calls to the legal helpline and provided legal advice on subjects relating to drug use and drug related crime.<br>
 •	Conducted legal research.<br>
-•	Drafted statements, letters, responses to inquiries and expert witness reports.
-
-**Wymondham College** _(Resident Fellow)_<br>
-•	Provided administrative, pastoral and teaching support to Wymondham College, a leading state boarding school.
+•	Drafted statements, letters, responses to inquiries and expert witness reports.|
+| **Wymondham College**| _Resident Fellow)_|•	Provided administrative, pastoral and teaching support to Wymondham College, a leading state boarding school.
 •	Assisted in the implementation of a school-wide ‘Learning For Life’ programme.
-•	Supported the school-wide Mock Trial and Debating competitions.
-
-**Birkbeck College, University of London** _(Criminal Law Tutor)_<br>
-•	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
-•		Responsible for developing targeted tutorials and extensive examination feedback.
-
-
-## <a name="volunteering">Volunteering and Organisations</a>
--------------
-**Organisations with which I am associated or actively participate in include (but are not limited to):**
-
-|Organisation | Role|
-|---|---|
-| **CodeFirst:Girls** | A former student at CodeFirst:Girls, I continue to play an active part in their community, attending events and contributing my time and knowledge as a Tutor for the beginners course currently being held at ThoughtWorks, Manchester. |
-| **Ladies of Code** | I am an active member of the Manchester Chapter of Ladies of Code. I recently participated as a panel member for an event centred around the topic of career-changes and continue to provide support and mentorship to a number of the women who attended this event |
-| **Women Who Code** | I am an active member of the London chapter of [Women Who Code](https://www.womenwhocode.com/) (WWC). |
-| **MozFest 2016** |I am volunteered my time to MozFest 2016. Mozilla, and [MozFest](https://mozillafestival.org/) specifically, is an organisation that shares my commitment to increasing diversity and accessibility to Tech and related industries.|  
-| **Techfugees** | I am an active participant in the [Techfugees](https://techfugees.com/) community. Techfugees is a social enterprise through which we, as members of the tech community, seek to respond to the needs of refugees. |
-
-## <a name="reviews">Reviews</a>
-------
-I asked my classmates at Makers what they thought of me, here's what (some of them) said:
-
-___One to watch. A real go-getter___
-<div class="rating" data-rate="2">
-  <i class="star-1">★</i>
-  <i class="star-2">★</i>
-  <i class="star-3">★</i>
-  <i class="star-4">★</i>
-  <i class="star-5">★</i>
-</div>
-
-[Joe Stephens](https://uk.linkedin.com/in/joe-coram-stephens-01815b47)
-
-___Sensational at ping pong. 5 stars___
-<div class="rating" data-rate="2">
-    <i class="star-1">★</i>
-    <i class="star-2">★</i>
-    <i class="star-3">★</i>
-    <i class="star-4">★</i>
-    <i class="star-5">★</i>
-</div>
-[Alex Mellor](https://uk.linkedin.com/in/alex-mellor-667b7974)
+•	Supported the school-wide Mock Trial and Debating competitions.|
+| **Birkbeck College, University of London**| _Criminal Law Tutor)_| •	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
+•		Responsible for developing targeted tutorials and extensive examination feedback.|
 
 ## :envelope: <a name="contact">Contact</a>
   _Find out more [about me](https://about.me/annahollandsmith)<br>
