@@ -6,23 +6,33 @@
 
 I am a Criminal Defence Lawyer turned Software Engineer.
 
-Having left behind a career in law and graduated from [Makers Academy](http://www.makersacademy.com/), an intensive and highly-selective 16-week coding bootcamp focused on Ruby and Javascript, I am now employed as a Junior Software Engineer at the BBC. 
+Having left behind a career in law and graduated from [Makers Academy](http://www.makersacademy.com/), an intensive and highly-selective 16-week coding bootcamp focused on Ruby and Javascript, I am now employed as a Software Engineer at the BBC. 
 
 The Connections Team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.
 
 ## :book: <a name="skills">Skills</a>
 ------
-#### Commitment
-I remain committed to various causes addressing important social issues. I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits) and am particularly excited to be volunteering with a new initiative ([Code 4000](http://www.techcityuk.com/blog/2016/11/teaching-programming-prisoners/)), designed to provide a coding education to selected inmates within prisons throughout the UK in a model designed to reflect that of [The Last Mile](https://thelastmile.org/), which has been successfully implemented throughout prisons in the US. 
-
 #### Fast Learner
-The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards.
+The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career. As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards. These skills became even more apparent whilst at Makers Academy. For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
 
-These skills became even more apparent whilst at Makers Academy. For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.
 - The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
 
+I have further demonstrated my ability to acquire new skills and knowledge throughout my time at the BBC. I started my journey into developing with ruby, ruby on rails, relational databases, OOP and MVC style but was required to learn JavaScript to complete the application process with the BBC. Following a successful application I was placed in a team working primarily in Scala. During my time with the Connections team, we have now transitioned across to using TypeScript for any new services we build. As a result, I consider myself to be language agnostic, with the ability and the willingness to pick up new languages and technologies.  
+
+#### Commitment
+I remain committed to various causes addressing important social issues: 
+- I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits). 
+- I am a volunteer with [Code 4000](http://www.techcityuk.com/blog/2016/11/teaching-programming-prisoners/), a unique programme providing a coding education to selected inmates within prisons throughout the UK in a model designed to reflect that of [The Last Mile](https://thelastmile.org/).
+- I am the organiser behind the Manchester chapter of [CodeYourFuture](https://codeyourfuture.io/), a coding school for refugees and asylum seekers. 
+- I am one of the organisers of [Codebar Manchester](https://codebar.io/). Codebar helps to [address technology’s diversity challenges through workshops, coaching, tutorials and events](https://medium.com/the-codelog/rebooting-codebar-in-manchester-35cd49cac41d).
+
 #### Teaching and Mentorship
- I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge. I am a volunteer tutor at [Code First Girls](http://www.codefirstgirls.org.uk/) Manchester and have previously volunteered as a coach at [Rails Girls](http://railsgirls.com/) and [DjangoGirls](https://djangogirls.org/). Such is my commitment to providing supportive learning environments for individuals who are currently underrepresented in Tech or who face additional barriers to a coding education, that I have set-up and organised 
+ I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge:  
+ - I am a volunteer tutor at [Code First Girls](http://www.codefirstgirls.org.uk/) Manchester.
+ - I have previously volunteered as a coach at [Rails Girls](http://railsgirls.com/) and [DjangoGirls](https://djangogirls.org/).
+ - I regularly mentor at youth hackathons and coding camps organised by [Hive Learning Network](http://www.hivelearning.net/).
+ - Such is my commitment to providing supportive learning environments for individuals who are currently underrepresented in Tech or who face additional barriers to a coding education, that I have set-up and organised the Manchester chapters of [CodeYourFuture](https://codeyourfuture.io/) and [Codebar](https://codebar.io/).
+
 
 ## :computer: <a name="projects">Projects</a>
 ------------
