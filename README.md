@@ -79,19 +79,21 @@ _BA(Hons) History/ History of Art:_ 2:1<br>
 
 |Organisation | Role| Description|
 |---|---|---|
-| **BBC** | _Software Engineer, Content Distribution Services_ | • Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering.<br>
-• Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content.<br> 
+| **BBC** | _Software Engineer, Content Distribution Services_ | • Working as a Junior Software Engineer within the Connections Team of the Platform API department of BBC Design & Engineering.
+• Platform API is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content.
 • The Connections team are responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.|
-|**GT Stewart Solicitors**|_Crown Court Caseworker_|Responsibilities included:<br>
-•	Case preparation of Crown Court cases.</br>• Conducting prison visits to take instructions and statements.</br>
-•	Liaising with and instructing expert witnesses.</br>•Training and monitoring of interns and new members of the paralegal team.|
-|**Release**| _Legal Advisor_ |•	Answered  calls to the legal helpline and provided legal advice on subjects relating to drug use and drug related crime.<br>
-•	Conducted legal research.<br>
+|**GT Stewart Solicitors**|_Crown Court Caseworker_|Responsibilities included:
+•	Case preparation of Crown Court cases. 
+• Conducting prison visits to take instructions and statements.
+•	Liaising with and instructing expert witnesses.
+•Training and monitoring of interns and new members of the paralegal team.|
+|**Release**| _Legal Advisor_ |•	Answered  calls to the legal helpline and provided legal advice on subjects relating to drug use and drug related crime.
+•	Conducted legal research. |
 •	Drafted statements, letters, responses to inquiries and expert witness reports.|
 | **Wymondham College**| _Resident Fellow)_|•	Provided administrative, pastoral and teaching support to Wymondham College, a leading state boarding school.
 •	Assisted in the implementation of a school-wide ‘Learning For Life’ programme.
 •	Supported the school-wide Mock Trial and Debating competitions.|
-| **Birkbeck College, University of London**| _Criminal Law Tutor)_| •	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
+| **Birkbeck College, University of London**| _Criminal Law Tutor)_| •	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.
 •		Responsible for developing targeted tutorials and extensive examination feedback.|
 
 ## :envelope: <a name="contact">Contact</a>
