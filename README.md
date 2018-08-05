@@ -17,7 +17,7 @@
 
 I am a Lawyer turned Software Engineer. 
 
-I wrote my first line of code with [CodeFirst: Girls](https://www.codefirstgirls.org.uk/) and subsequently went on to attend [Makers Academy], a London coding bootcamp teaching the fundamentals of programming through Ruby. Upon completion of the bootcamp, and just 6 months after having written that first line of code, I started my first job as a Software Engineer at the [BBC](https://www.bbc.co.uk/). 
+I wrote my first line of code with [CodeFirst: Girls](https://www.codefirstgirls.org.uk/) and subsequently went on to attend [Makers Academy](https://makers.tech/), a London coding bootcamp teaching the fundamentals of programming through Ruby. Upon completion of the bootcamp, and just 6 months after having written that first line of code, I started my first job as a Software Engineer at the [BBC](https://www.bbc.co.uk/). 
 
 As somebody who has successfully transitioned into a Tech career without a traditional computer science background, I am committed to democratising coding education and promoting a more diverse, inclusive and equitable Tech workforce. As a result of these interests, following 2 years within the Content Distribution Services Team at the BBC, I took up my current position as the Programme Manager of [The Hut Group's](https://www.thg.com/) Technology and Innovation Accelerator. 
 
@@ -56,6 +56,26 @@ _I remain committed to various causes addressing important social issues:_
 | MakersBnB [Github](https://github.com/AnnaHollandSmith/MakersBnB) [Heroku](https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
 
 ## :bulb: <a name="personal">Personal Projects</a>
+
+### Women Who Keynote
+Website: https://womenwhokeynote.com/
+Twitter: https://twitter.com/womenwhokeynote
+Medium:  https://medium.com/@womenwhokeynote
+
+I am one of the co-creators of [Women Who Keynote](https://womenwhokeynote.com), a platform designed for women to promote themselves for speaking opportunities. 
+
+We believe that denying women opportunities to present at professional conferences and events prevents them from gaining visibility and deprives their colleagues of their valuable perspectives. Failure to listen to the voices of female experts contributes to the continued gender diversity problems experienced in many industries.
+
+**The mission of Women Who Keynote is to contribute to the elimination of all-male panels and help improve the visibility of women in male-dominated industries. Our platform is intended to hold event organisers to account and encourage greater diversity in their speaker lineups.**
+
+### THE STEMINIST
+
+Website: Coming soon...
+Twitter: https://twitter.com/SteministThe
+
+The Steminist is designed to be a source of information and news specifically for women working in the STEM fields. 
+
+
 
 ## :mortar_board: <a name="education">Education</a>
 ---------
