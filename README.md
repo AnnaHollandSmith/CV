@@ -3,7 +3,16 @@
 [Skills](#skills) | [Education](#education) | [Projects](#projects) | [Personal Projects](#personal) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Writing](#awards)| | [Contact](#contact)
 
 :pencil2: Read my [blog](https://medium.com/@AnnaJS15)
+
 :page_facing_up: Take a read of my [CV in a PDF format](cv.pdf)
+
+:link: View my [LinkedIn page](https://www.linkedin.com/in/anna-holland-smith/) 
+
+:bird: Have a read of my [Twitter feed](https://twitter.com/A_HollandSmith)
+
+
+
+----------
 
 I am a Lawyer turned Software Engineer. 
 
