@@ -1,6 +1,7 @@
 # Anna Holland Smith
-----------
 [Skills](#skills) | [Education](#education) | [Projects](#projects) | [Personal Projects](#personal) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Writing](#awards)| | [Contact](#contact)
+
+-------------
 
 :pencil2: Read my [blog](https://medium.com/@AnnaJS15)
 
