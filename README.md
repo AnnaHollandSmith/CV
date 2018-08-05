@@ -4,7 +4,7 @@
 
 :pencil2: Read my [blog](https://medium.com/@AnnaJS15)
 
-:page_facing_up: Take a read of my [CV in a PDF format](cv.pdf)
+:page_facing_up: View my [CV in a PDF format](cv.pdf)
 
 :link: View my [LinkedIn page](https://www.linkedin.com/in/anna-holland-smith/) 
 
@@ -19,11 +19,6 @@ I am a Lawyer turned Software Engineer.
 I wrote my first line of code with [CodeFirst: Girls](https://www.codefirstgirls.org.uk/) and subsequently went on to attend [Makers Academy], a London coding bootcamp teaching the fundamentals of programming through Ruby. Upon completion of the bootcamp, and just 6 months after having written that first line of code, I started my first job as a Software Engineer at the [BBC](https://www.bbc.co.uk/). 
 
 As somebody who has successfully transitioned into a Tech career without a traditional computer science background, I am committed to democratising coding education and promoting a more diverse, inclusive and equitable Tech workforce. As a result of these interests, following 2 years within the Content Distribution Services Team at the BBC, I took up my current position as the Programme Manager of [The Hut Group's](https://www.thg.com/) Technology and Innovation Accelerator. 
-
-In the face of a growing tech skills shortage, at THG we are committing to building our own pipeline. Our Accelerator programme has been designed as a gateway to a technology career for individuals from a non-computer science background. We will employ people with little or no programming experience and, over the course of 6 months,teach them the fundamentals of programming and computer science whilst also providing them with valuable industry insights and soft-skills development opportunities. Following the completion of their first 6 months with us, we will transition the participants into permenant software engineering roles across our business. 
-
-
-I am an instructor for CodeFirst:Girls in Manchester, a non-profit seeking to redress the gender imbalance in Tech by providing free coding courses to ambitious young women from a non-computer science background. I am also one of the organisers behind Codebar Manchester, providing monthly coding workshops for women and members of the LGBTQ+ community. I am  also extremely proud to be one of the organisers behind CodeYourFuture Manchester - we are a charity, teaching refugees and asylum seekers how to code and preparing them for Junior Developer roles across the North West of England. 
 
 ## :book: <a name="skills">Skills</a>
 ------
