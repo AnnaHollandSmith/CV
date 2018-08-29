@@ -1,14 +1,13 @@
 # Anna Holland Smith
-[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Personal Projects](#personal) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Writing](#awards)| | [Contact](#contact)
-
--------------
 
 :computer: My [personal website](https://www.annahollandsmith.com/) | :pencil2: My [blog](https://medium.com/@AnnaJS15) | :page_facing_up: My [CV in a PDF format](cv.pdf) | 
 :link: My [LinkedIn page](https://www.linkedin.com/in/anna-holland-smith/) | :bird: My [Twitter feed](https://twitter.com/A_HollandSmith)
 
-
-
 ----------
+
+[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Personal Projects](#personal) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Writing](#awards)| | [Contact](#contact)
+
+-------------
 
 I am a Lawyer turned Software Engineer. 
 
@@ -143,4 +142,4 @@ Responsibilities included:<br>
 ## :envelope: <a name="contact">Contact</a>
   _Find out more [about me](https://about.me/annahollandsmith)<br>
   Discover more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
-  Follow me on [Twitter](https://twitter.com/AnnaJS15)_  
+  Follow me on [Twitter](https://twitter.com/A_HollandSmith)_  
