@@ -3,15 +3,7 @@
 
 -------------
 
-:computer: Take a look at my [personal website](https://www.annahollandsmith.com/)
-
-:pencil2: Read my [blog](https://medium.com/@AnnaJS15)
-
-:page_facing_up: View my [CV in a PDF format](cv.pdf)
-
-:link: View my [LinkedIn page](https://www.linkedin.com/in/anna-holland-smith/) 
-
-:bird: Browse my [Twitter feed](https://twitter.com/A_HollandSmith)
+:computer: Take a look at my [personal website](https://www.annahollandsmith.com/) | :pencil2: Read my [blog](https://medium.com/@AnnaJS15) | :page_facing_up: View my [CV in a PDF format](cv.pdf) | :link: View my [LinkedIn page](https://www.linkedin.com/in/anna-holland-smith/) | :bird: Browse my [Twitter feed](https://twitter.com/A_HollandSmith)
 
 
 
