@@ -11,7 +11,7 @@
 
 :link: View my [LinkedIn page](https://www.linkedin.com/in/anna-holland-smith/) 
 
-:bird: Have a read of my [Twitter feed](https://twitter.com/A_HollandSmith)
+:bird: Browse my [Twitter feed](https://twitter.com/A_HollandSmith)
 
 
 
@@ -70,14 +70,6 @@ We believe that denying women opportunities to present at professional conferenc
 
 **The mission of Women Who Keynote is to contribute to the elimination of all-male panels and help improve the visibility of women in male-dominated industries. Our platform is intended to hold event organisers to account and encourage greater diversity in their speaker lineups.**
 
-### THE STEMINIST
-
-Website: Coming soon...
-Twitter: https://twitter.com/SteministThe
-
-The Steminist is designed to be a source of information and news specifically for women working in the STEM fields. 
-
-
 
 ## :mortar_board: <a name="education">Education</a>
 ---------
@@ -113,7 +105,26 @@ _BA(Hons) History/ History of Art:_ 2:1<br>
 
 ## :blue_book: <a name="experience">Experience</a>
 ----------
+**THG (The Hut Group)** _(Programme Manager, THG Technology and Innovation Accelerator)_
+
+The Hut Group is one of Europe's fastest growing technology companies operating, with increasing dominance, in the e-commerce space. 
+
+THG's Technology and Innovation Accelerator provides an opportunity for the company to invest in attracting and retaining the very best graduates to technology careers within the business. In the face of a growing skills gap and with the need to continue to grow our technology teams to sustain our growth, THG is building out it's own talent pipeline. Our Accelerator programme will enable us to hire bright graduates from non-computer science backgrounds and limited programming experience and commit to providing them, over the course of six months, the foundations that they will need to succeed as a software engineer within our company.
+
+My role has been to develop and contribute to the delivery of a full curriculum, encompassing technical skills (including foundations of programming in Python, operating systems, computational thinking and object oriented programming in Java) an "industry primer" (including an introduction to e-commerce, marketing, the journey of a customer) and a professional skills curriculum (including developing a growth mindset, working collaboratively as well as industry specific training in the legal and ethical implications of software engineering).
+
 **BBC** _(Software Engineer, Content Distribution Services_<br>
+I worked as a Software Engineer in Content Distribution Services within BBC Design & Engineering.
+
+Content Distribution Services is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content. 
+
+My team, 'Connections' were responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.
+
+During my time at the BBC, my role included (but was not limited to):
+-       Designing and implementing RESTful web services in Node.js (developed with TypeScript and ES6), Scala and Java.
+-       Working in a self-organising structure with Kanban and XP methodologies such as TDD, continuous delivery and pair programming.
+-       Managing and supporting Document (MarkLogic) and TripleStore (GraphDB) databases and their associated APIs. This required me to be on a rota to provide support to developers and journalists interfacing with our products by managing our “tech support” inbox and providing out-of-hours support.
+
 
 
 **GT Stewart Solicitors** _(Paralegal/Trainee)_<br>
