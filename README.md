@@ -118,6 +118,7 @@ Responsibilities included:<br>
 ------------
 
 :open_hands: <a name="volunteering">Volunteering</a>
+----------------
 
 _I remain committed to various causes addressing important social issues:_ 
 - I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits). 
@@ -129,6 +130,7 @@ _I remain committed to various causes addressing important social issues:_
 ------------
 
 :trophy: <a name="awards">Awards</a>
+-------------
 
 -------------
 
