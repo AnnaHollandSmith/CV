@@ -5,7 +5,7 @@
 
 ----------
 
-[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Personal Projects](#personal) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Writing](#awards)| | [Contact](#contact)
+[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Personal Projects](#personal) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Contact](#contact)
 
 -------------
 
@@ -106,7 +106,8 @@ THG's Technology and Innovation Accelerator provides an opportunity for the comp
 
 
 ### BBC
-_(Software Engineer, Content Distribution Services_<br>
+_(Software Engineer, Content Distribution Services)_<br>
+
 I worked as a Software Engineer in Content Distribution Services within BBC Design & Engineering.
 
 Content Distribution Services is the department within Design & Engineering that builds and operates published content APIs that power the BBC Online. Our mission is to craft a simple & coherent BBC APIs that allows internal and external developers to build innovative and high scale solutions using BBC content. 
@@ -138,6 +139,14 @@ Responsibilities included:<br>
 •		Responsible for developing targeted tutorials and extensive examination feedback.
 
 ------------
+
+:open_hands: <a name="volunteering">Volunteering</a>
+
+------------
+
+:trophy: <a name="awards">Awards</a>
+
+-------------
 
 ## :envelope: <a name="contact">Contact</a>
   Find out more [about me](https://about.me/annahollandsmith)<br>
