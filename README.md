@@ -3,6 +3,8 @@
 
 -------------
 
+:computer: Take a look at my [personal website](https://www.annahollandsmith.com/)
+
 :pencil2: Read my [blog](https://medium.com/@AnnaJS15)
 
 :page_facing_up: View my [CV in a PDF format](cv.pdf)
