@@ -17,43 +17,12 @@ As somebody who has successfully transitioned into a Tech career without a tradi
 
 ## :book: <a name="skills">Skills</a>
 ------
-#### Commitment
-_I remain committed to various causes addressing important social issues:_ 
-- I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits). 
-- I am a volunteer with [Code 4000](http://www.techcityuk.com/blog/2016/11/teaching-programming-prisoners/), a unique programme providing a coding education to selected inmates within prisons throughout the UK in a model designed to reflect that of [The Last Mile](https://thelastmile.org/).
-- I am the organiser behind the Manchester chapter of [CodeYourFuture](https://codeyourfuture.io/), a coding school for refugees and asylum seekers. 
-- I am one of the organisers of [Codebar Manchester](https://codebar.io/). Codebar helps to [address technology’s diversity challenges through workshops, coaching, tutorials and events](https://medium.com/the-codelog/rebooting-codebar-in-manchester-35cd49cac41d).
 
-#### Fast Learner
- _The ability to take a pragmatic and considered approach to problem-solving has enabled me to adopt and utilise new skills and concepts quickly and efficiently throughout my career:_
- 
- -  As a lawyer, I was often required to work flexibly and adapt quickly whilst maintaining high standards. These skills became even more apparent whilst at Makers Academy. 
-
- - For the Makers Academy final project, I committed to and completed a hybrid-mobile application that was built using Cordova and Node.js. We also built our own Rails Server API for the back-end. This was beyond the scope of the course as we had only had two weeks dedicated to learning vanilla JavaScript prior to the project.The group presentation for the project can be viewed [here](https://vimeo.com/177900577)
- 
- - I have further demonstrated my ability to acquire new skills and knowledge throughout my time at the BBC. I started my journey developing with ruby, ruby on rails, relational databases, OOP and MVC style but was required to learn JavaScript to complete the application process with the BBC. Following a successful application I was placed in a team working primarily in Scala. During my time with the Connections team, we have now transitioned across to using TypeScript for any new services we build. As a result, I consider myself to be _language agnostic, with the ability and the willingness to pick up new languages and technologies._  
-
-#### Teaching and Mentorship
- _I love helping others to understand new concepts and using teaching opportunities to further develop my own knowledge:_  
-  - Such is my commitment to providing supportive learning environments for individuals who are currently underrepresented in Tech or who face additional barriers to a coding education, that I have set-up and organised the Manchester chapters of [CodeYourFuture](https://codeyourfuture.io/) and [Codebar](https://codebar.io/).
- - I am a volunteer tutor at [Code First Girls](http://www.codefirstgirls.org.uk/) Manchester.
- - I have previously volunteered as a coach at [Rails Girls](http://railsgirls.com/) and [DjangoGirls](https://djangogirls.org/).
- - I regularly mentor at youth hackathons and coding camps organised by [Hive Learning Network](http://www.hivelearning.net/)
-
-
-## :computer: <a name="projects">Technical Projects</a>
-------------
-| Project | Description | Technologies | Testing |
-|---|---|---|---|
-| Chasing Shadows [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server)  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows) | Final project at Makers Academy. A mobile map-based (utilising Google Maps JS API) role playing game. A link to our promo video and presentation can be found [here](https://vimeo.com/177900577) | Frontend: Javascript, Cordova, HTML/SASS Backend(API Server): Ruby on Rails, PostgreSQL | Capybara, Karma, Rspec |
-| Pear [Github](https://github.com/AnnaHollandSmith/pear) [Heroku](http://findapear.herokuapp.com/users/sign_in) | A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely). | Ruby on Rails, Javascript | Rspec, Capybara, Jasmine
-| MakersBnB [Github](https://github.com/AnnaHollandSmith/MakersBnB) [Heroku](https://taark-bnb.herokuapp.com/) |  Our first group project at Makers Academy. A web-based airbnb clone. | Ruby, Sinatra | Rspec, Capybara |  
-
-## :bulb: <a name="personal">Personal Projects</a>
+## :bulb: :computer: <a name="personal">Personal Projects</a>
 
 ### Women Who Keynote
-Website: https://womenwhokeynote.com/
-Twitter: https://twitter.com/womenwhokeynote
+Website: https://womenwhokeynote.com/ <br>
+Twitter: https://twitter.com/womenwhokeynote <br>
 Medium:  https://medium.com/@womenwhokeynote
 
 I am one of the co-creators of [Women Who Keynote](https://womenwhokeynote.com), a platform designed for women to promote themselves for speaking opportunities. 
@@ -62,6 +31,15 @@ We believe that denying women opportunities to present at professional conferenc
 
 **The mission of Women Who Keynote is to contribute to the elimination of all-male panels and help improve the visibility of women in male-dominated industries. Our platform is intended to hold event organisers to account and encourage greater diversity in their speaker lineups.**
 
+### Chasing Shadows
+
+ [Backend](https://github.com/AnnaHollandSmith/chasing_shadows_api_server) |  [Frontend](https://github.com/AnnaHollandSmith/chasing_shadows)<br>
+  Final project at Makers Academy. A mobile map-based (utilising Google Maps JS API)role playing game. A link to our promo video and presentation can be found [here](https://vimeo.com/177900577)
+
+### Pear
+
+[Github](https://github.com/AnnaHollandSmith/pear)| [Heroku](http://findapear.herokuapp.com/users/sign_in) <br>
+ A web-based application designed to enable developers (amateur and professional) to find like-minded individuals to pair program with (locally or remotely)
 
 ## :mortar_board: <a name="education">Education</a>
 ---------
@@ -141,6 +119,13 @@ Responsibilities included:<br>
 ------------
 
 :open_hands: <a name="volunteering">Volunteering</a>
+
+_I remain committed to various causes addressing important social issues:_ 
+- I am a member of [WHFNP](http://www.womenhackfornonprofits.com/) (Women Hack for Non-Profits). 
+- I am a volunteer with [Code 4000](http://www.techcityuk.com/blog/2016/11/teaching-programming-prisoners/), a unique programme providing a coding education to selected inmates within prisons throughout the UK in a model designed to reflect that of [The Last Mile](https://thelastmile.org/).
+- I am the organiser behind the Manchester chapter of [CodeYourFuture](https://codeyourfuture.io/), a coding school for refugees and asylum seekers. 
+- I am one of the organisers of [Codebar Manchester](https://codebar.io/). Codebar helps to [address technology’s diversity challenges through workshops, coaching, tutorials and events](https://medium.com/the-codelog/rebooting-codebar-in-manchester-35cd49cac41d).
+
 
 ------------
 
