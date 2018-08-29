@@ -113,9 +113,9 @@ Content Distribution Services is the department within Design & Engineering that
 My team, 'Connections' were responsible for APIs that maintain BBC concepts and the connections between these. We are also responsible for APIs that store collections of related or editorially selected content. These APIs are used across the BBC including the website and/or mobile applications for News, Sports, Bitesize and Radio.
 
 During my time at the BBC, my role included (but was not limited to):
--       Designing and implementing RESTful web services in Node.js (developed with TypeScript and ES6), Scala and Java.
--       Working in a self-organising structure with Kanban and XP methodologies such as TDD, continuous delivery and pair programming.
--       Managing and supporting Document (MarkLogic) and TripleStore (GraphDB) databases and their associated APIs. This required me to be on a rota to provide support to developers and journalists interfacing with our products by managing our “tech support” inbox and providing out-of-hours support.
+- Designing and implementing RESTful web services in Node.js (developed with TypeScript and ES6), Scala and Java.
+- Working in a self-organising structure with Kanban and XP methodologies such as TDD, continuous delivery and pair programming.
+- Managing and supporting Document (MarkLogic) and TripleStore (GraphDB) databases and their associated APIs. This required me to be on a rota to provide support to developers and journalists interfacing with our products by managing our “tech support” inbox and providing out-of-hours support.
 
 
 
