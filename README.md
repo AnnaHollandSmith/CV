@@ -138,8 +138,9 @@ Responsibilities included:<br>
 •	Selected to provide tutoring and examination feedback to students on the University of London International Programme’s Undergraduate Diploma of Law in exchange for academic credit.<br>
 •		Responsible for developing targeted tutorials and extensive examination feedback.
 
+------------
 
 ## :envelope: <a name="contact">Contact</a>
-  _Find out more [about me](https://about.me/annahollandsmith)<br>
+  Find out more [about me](https://about.me/annahollandsmith)<br>
   Discover more on [LinkedIn](https://uk.linkedin.com/in/anna-holland-smith)    
-  Follow me on [Twitter](https://twitter.com/A_HollandSmith)_  
+  Follow me on [Twitter](https://twitter.com/A_HollandSmith)
