@@ -5,7 +5,7 @@
 
 ----------
 
-[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Personal Projects](#personal) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Contact](#contact)
+| [Education](#education) | [Projects](#projects) | [Experience](#experience) | [Volunteering](#volunteering) | [Awards](#awards) | [Contact](#contact)
 
 -------------
 
@@ -15,10 +15,9 @@ I wrote my first line of code with [CodeFirst: Girls](https://www.codefirstgirls
 
 As somebody who has successfully transitioned into a Tech career without a traditional computer science background, I am committed to democratising coding education and promoting a more diverse, inclusive and equitable Tech workforce. As a result of these interests, following 2 years within the Content Distribution Services Team at the BBC, I took up my current position as the Programme Manager of [The Hut Group's](https://www.thg.com/) Technology and Innovation Accelerator. 
 
-## :book: <a name="skills">Skills</a>
 ------
 
-## :bulb: :computer: <a name="personal">Personal Projects</a>
+## :bulb: <a name="projects">Personal Projects</a>
 
 ### Women Who Keynote
 Website: https://womenwhokeynote.com/ <br>
