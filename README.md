@@ -132,6 +132,26 @@ _I remain committed to various causes addressing important social issues:_
 :trophy: <a name="awards">Awards</a>
 -------------
 
+[CodeFirst: Girls Ones to Watch 2018](https://www.codefirstgirls.org.uk/ones-to-watch-2018.html)
+-------------
+
+As a former CFG student and a current volunteer student, I was honoured to be recognised as one of their 'Ones to Watch' for 2018. 
+
+The 'Ones to Watch' campaign has been designed by CFG to celebrate women who have chosen to pursue a career in technology and encourage other young women to do the same. 
+
+[The Manchester Evening News' Top 30 Women in Tech'](https://www.manchestereveningnews.co.uk/business/business-news/who-top-30-women-tech-14440349)
+--------------------
+
+The Manchester Evening News curated a list of 30 women who they recognised for their valuable work within the tech sector within Greater Manchester. 
+
+[Digital Volunteer of the Year Award, AbilityNet Tech4GoodAwards](https://www.tech4goodawards.com/2018/abilitynet-tech4good-awards-2018-winners-announced/)
+-----------------
+
+I was recognised as the 'Digital Voluneer of the Year' at the annual Tech4GoodAwards for my voluntary contributions. 
+
+
+
+
 -------------
 
 ## :envelope: <a name="contact">Contact</a>
